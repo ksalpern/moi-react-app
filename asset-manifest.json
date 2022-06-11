@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/moi-react-app/static/css/main.e1c919e3.css",
-    "main.js": "/moi-react-app/static/js/main.bf726a85.js",
+    "main.js": "/moi-react-app/static/js/main.06a5ffa3.js",
     "static/js/787.a96ac5a8.chunk.js": "/moi-react-app/static/js/787.a96ac5a8.chunk.js",
+    "static/media/loading.svg": "/moi-react-app/static/media/loading.8cfb821138c1fe262f517ac9f3552093.svg",
     "index.html": "/moi-react-app/index.html",
     "main.e1c919e3.css.map": "/moi-react-app/static/css/main.e1c919e3.css.map",
-    "main.bf726a85.js.map": "/moi-react-app/static/js/main.bf726a85.js.map",
+    "main.06a5ffa3.js.map": "/moi-react-app/static/js/main.06a5ffa3.js.map",
     "787.a96ac5a8.chunk.js.map": "/moi-react-app/static/js/787.a96ac5a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1c919e3.css",
-    "static/js/main.bf726a85.js"
+    "static/js/main.06a5ffa3.js"
   ]
 }
